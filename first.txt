@@ -1,0 +1,51 @@
+this is my first git text file
+
+GIT - can plug an play with other tools like maven, svn
+
+gitbuckets are one of the flavor
+
+file tree -- folder structure for version control
+
+
+Advantages
+
+1.distributed version control system -- DVCS
+2. SCM - source code management
+3.RCS - revision control system
+
+  a. disrtibuted
+  b. branch, forking
+  c. traceability
+  d. performance (internal algorith is different)
+  e.secure -- SHA1 (secure hashing algorithm)
+  f. flexible
+  g. standard
+
+
+local repository -- it is in the c/d driver in our system
+
+central repository -- distributed, ans visible to all team members, and u need credentials to access the central repository.
+
+staging
+
+
+Basic operations
+
+1 .Initialize -(git init) will intialize local repository
+2 .add - (git add /(for all git add.))will add code into staging area
+3 .commit -- will add code into laocal repository  
+4 .push -- will add  code into central repository
+5 .pull -- it will get the code from central repository to local repository
+
+Advance operations
+
+1. branching
+2. merging
+3. rebasing
+
+git -- software tool
+github - social platform
+
+commands
+
+1. git clone and (url from central repository)
